@@ -1,0 +1,194 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 8143 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+H:\unityproject\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+H:/Gamesproject/Gamoksh Carracing
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57581
+Successfully changed project path to: H:/Gamesproject/Gamoksh Carracing
+H:/Gamesproject/Gamoksh Carracing
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 125.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path H:/unityproject/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/Gamesproject/Gamoksh Carracing/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 710 (ID=0x128b)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'H:/unityproject/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'H:/unityproject/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'H:/unityproject/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56628
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: H:/unityproject/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000952 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 103.92 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.192 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 111.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.111 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 2.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3168 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.3 MB.
+System memory in use after: 155.1 MB.
+
+Unloading 209 unused Assets to reduce memory usage. Loaded Objects now: 3553.
+Total: 4.035800 ms (FindLiveObjects: 0.616800 ms CreateObjectMapping: 0.103300 ms MarkObjects: 2.454500 ms  DeleteObjects: 0.859500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/Sport_T/basketball-stand.fbx
+  artifactKey: Guid(5247a74f3413c41d299e23dc3d7626d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/T/- Meshes_T/Sport_T/basketball-stand.fbx using Guid(5247a74f3413c41d299e23dc3d7626d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9076adad8f4430a8e8bc3a8ecb9daec2') in 0.611914 seconds
+  Import took 0.624512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Plugins/Android
+  artifactKey: Guid(851eaf76e79317b4f96f36f4accb3287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android using Guid(851eaf76e79317b4f96f36f4accb3287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71b634fab1e3d2f3db43ac78709f6ef5') in 0.018041 seconds
+  Import took 0.033989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Sport_M/basketball-stand.fbx
+  artifactKey: Guid(09cc17643f44c41c2a240a473b5e6daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyperfect/Low Poly Ultimate Pack/M/- Meshes_M/Sport_M/basketball-stand.fbx using Guid(09cc17643f44c41c2a240a473b5e6daa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8548ad26a8901317f37a9bff67d37710') in 0.042281 seconds
+  Import took 0.047970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.312521 seconds.
+  path: Assets/GA-SDK-UNITY-master/GA-SDK-UNITY-master/Runtime/Android
+  artifactKey: Guid(597ee60d9a475c840bd1048278120a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GA-SDK-UNITY-master/GA-SDK-UNITY-master/Runtime/Android using Guid(597ee60d9a475c840bd1048278120a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea94796c32021e6ce35f6ff9301592c3') in 0.006664 seconds
+  Import took 0.021888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.384152 seconds.
+  path: Assets/Adjust/Android
+  artifactKey: Guid(64b3fa260fe5b3c4e9215ec9b42c90da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Adjust/Android using Guid(64b3fa260fe5b3c4e9215ec9b42c90da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0dc62e895b6ec37bd109d69ec4e4ae8') in 0.002387 seconds
+  Import took 0.029074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.040843 seconds.
+  path: Assets/GA-SDK-UNITY-master/GA-SDK-UNITY-master/Runtime/Android/unity_gameanalytics.jar
+  artifactKey: Guid(63c7fbb74d1694323b632b9b4cd7d1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GA-SDK-UNITY-master/GA-SDK-UNITY-master/Runtime/Android/unity_gameanalytics.jar using Guid(63c7fbb74d1694323b632b9b4cd7d1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2170a849c3db8c6787ff539920f56254') in 0.700572 seconds
+  Import took 0.726262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.883238 seconds.
+  path: Assets/GA-SDK-UNITY-master/GA-SDK-UNITY-master/Runtime/Android/instantapps-1.1.0.aar
+  artifactKey: Guid(2399d067eb0414c1788edd794d77e8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GA-SDK-UNITY-master/GA-SDK-UNITY-master/Runtime/Android/instantapps-1.1.0.aar using Guid(2399d067eb0414c1788edd794d77e8c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17a2f5e99c478af50d8a55e9e56e4b0') in 0.045947 seconds
+  Import took 0.081044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.805743 seconds.
+  path: Assets/GA-SDK-UNITY-master/GA-SDK-UNITY-master/Runtime/com.gameanalytics.sdk.Runtime.asmdef
+  artifactKey: Guid(f8c64bb88d959406689053ae3f31183d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GA-SDK-UNITY-master/GA-SDK-UNITY-master/Runtime/com.gameanalytics.sdk.Runtime.asmdef using Guid(f8c64bb88d959406689053ae3f31183d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd77d21551f2c85ceeb72e461898775a6') in 0.020883 seconds
+  Import took 0.054936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.779589 seconds.
+  path: Assets/Adjust/Android/AdjustAndroidManifest.xml
+  artifactKey: Guid(a13ef442648c346a79f9ff24875c037a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Adjust/Android/AdjustAndroidManifest.xml using Guid(a13ef442648c346a79f9ff24875c037a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9db475713ee1ce662c0a52d0501bec56') in 0.242165 seconds
+  Import took 0.270705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.804580 seconds.
+  path: Assets/Plugins/Android/AndroidManifest.xml
+  artifactKey: Guid(d96ff5e7e7591f94786536474e1b7862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/AndroidManifest.xml using Guid(d96ff5e7e7591f94786536474e1b7862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '950bbb5937c20c9a1148d7dbc9995319') in 0.007653 seconds
+  Import took 0.033739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.968032 seconds.
+  path: Assets/Plugins/Android/AndroidManifest.xml
+  artifactKey: Guid(d96ff5e7e7591f94786536474e1b7862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/AndroidManifest.xml using Guid(d96ff5e7e7591f94786536474e1b7862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc150263b3d16283ff7a17348aaed0f') in 0.003256 seconds
+  Import took 0.044674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.209319 seconds.
+  path: Assets/Adjust/Android/AdjustAndroid.cs
+  artifactKey: Guid(1b21499aaf10a42e8b6377af71a35ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Adjust/Android/AdjustAndroid.cs using Guid(1b21499aaf10a42e8b6377af71a35ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9c9fe032446462c4695ba475526a0d') in 0.035812 seconds
+  Import took 0.072023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.024231 seconds.
+  path: Assets/GA-SDK-UNITY-master/GA-SDK-UNITY-master/Runtime/Scripts/Wrapper/GA_AndroidWrapper.cs
+  artifactKey: Guid(95ca1d00b4a004e3f9f69da6258ecdb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GA-SDK-UNITY-master/GA-SDK-UNITY-master/Runtime/Scripts/Wrapper/GA_AndroidWrapper.cs using Guid(95ca1d00b4a004e3f9f69da6258ecdb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c9280b0825d2183a83e522b96c2cc99') in 0.006382 seconds
+  Import took 0.042724 seconds .
+
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 10.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 85 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 94.7 MB.
+System memory in use after: 93.4 MB.
+
+Unloading 85 unused Assets to reduce memory usage. Loaded Objects now: 3628.
+Total: 4.203300 ms (FindLiveObjects: 0.402100 ms CreateObjectMapping: 0.098300 ms MarkObjects: 2.924800 ms  DeleteObjects: 0.777000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
